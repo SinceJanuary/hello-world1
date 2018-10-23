@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50615
 File Encoding         : 65001
 
-Date: 2018-10-23 15:52:51
+Date: 2018-10-23 16:12:53
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -33,23 +33,6 @@ CREATE TABLE `address_info` (
 -- ----------------------------
 -- Records of address_info
 -- ----------------------------
-INSERT INTO `address_info` VALUES ('67', '53', '安徽省-宿州市-砀山县', '河南工业大学m河南工业大学m河南工业大学', '465200', '丁朝', '15538707633');
-INSERT INTO `address_info` VALUES ('68', '102', '安徽省-蚌埠市-淮上区', 'mmm', '000000', 'kun', '15538305355');
-INSERT INTO `address_info` VALUES ('69', '103', '澳门-澳门-市区', '222为全文', '000000', '阿达', '15538305555');
-INSERT INTO `address_info` VALUES ('70', '105', '澳门-澳门', '321', '321321', '3321', '15538707633');
-INSERT INTO `address_info` VALUES ('71', '105', '山东省-烟台市-福山区', '12321321', '332133', '321', '15538707633');
-INSERT INTO `address_info` VALUES ('72', '51', '河南省-新乡市-卫辉市', '河南省郑州市金水区郑州航院东校区', '000000', '李国臣', '15538707633');
-INSERT INTO `address_info` VALUES ('73', '107', '河南省-郑州市-高新区', '河南工业大学', '450000', '李刚', '17839949033');
-INSERT INTO `address_info` VALUES ('106', '52', '河南省-新乡市-原阳县', '郑州航空工业管理学院', '000000', '李国臣', '15538707333');
-INSERT INTO `address_info` VALUES ('107', '51', '河南省-新乡市-原阳县', '郑州航院东校区', '000000', '李国臣', '15538707999');
-INSERT INTO `address_info` VALUES ('108', '126', '河南省-新乡市-原阳县', 'niaho', '000000', 'liguocen', '15538707777');
-INSERT INTO `address_info` VALUES ('109', '126', '河南省-新乡市-原阳县', 'jh', '000000', 'liugoche', '15538797777');
-INSERT INTO `address_info` VALUES ('110', '53', '河南省-新乡市-原阳县', '郑州航空工业管理学院', '000000', '丁朝', '15617678845');
-INSERT INTO `address_info` VALUES ('111', '133', '河南省-新乡市-原阳县', '河南', '000000', '高规格', '11111122233');
-INSERT INTO `address_info` VALUES ('112', '140', '江西省-吉安市', '123123123213', '350011', 'xsfdsf', '18094156111');
-INSERT INTO `address_info` VALUES ('113', '149', '浙江省-杭州市-江干区', '111111111111', '111111', '111', '13675022222');
-INSERT INTO `address_info` VALUES ('116', '148', '澳门-澳门-市区', 'SACASCASC', '000000', 'XCHUSCYc', '12563215996');
-INSERT INTO `address_info` VALUES ('117', '155', '河南省-郑州市-金水区', '郑州航空工业管理学院东校区', '430000', '丁朝', '15617678845');
 
 -- ----------------------------
 -- Table structure for `colors`
